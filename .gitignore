@@ -14,3 +14,5 @@ backup/
 # ビルド生成物
 build/
 dist/
+license_inventory.txt
+CalendarDock_License_Documents.zip
