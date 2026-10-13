@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# 個人情報を含む移行用CSVとDB
+*.csv
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+data/
+backup/
+# ビルド生成物
+build/
+dist/
